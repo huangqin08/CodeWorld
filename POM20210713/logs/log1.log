@@ -1,0 +1,426 @@
+2021-08-11 17:47:05,946 base.py INFO __init__ 浏览器正常启动了
+2021-08-11 17:47:05,946 base.py INFO __init__ 浏览器正常启动了
+2021-08-11 17:47:05,946 base.py INFO __init__ 浏览器正常启动了
+2021-08-11 17:47:05,948 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-11 17:47:06,940 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-11 17:47:07,007 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-11 17:47:08,329 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-11 17:47:09,551 base.py INFO input_ 打开了('id', 'itemname')元素，输入笔字符
+2021-08-13 10:00:24,498 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:00:24,505 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:00:25,527 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:00:25,588 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:00:26,878 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:00:26,879 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:00:28,231 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 10:00:28,352 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 10:03:00,364 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:03:00,364 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:03:01,496 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:03:01,568 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:03:02,884 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:03:02,884 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:03:04,046 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 10:03:04,167 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 10:03:55,162 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:03:55,162 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:03:56,126 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:03:56,191 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:03:57,424 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:03:57,424 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:03:58,570 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 10:03:58,690 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 10:04:56,793 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:04:56,793 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:04:58,934 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:04:59,001 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:05:00,302 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:05:00,302 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:05:01,506 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 10:05:01,622 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 10:13:36,557 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:13:36,557 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:13:36,558 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:13:36,560 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:13:37,528 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:13:37,593 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:13:38,765 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:13:40,010 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 10:13:40,145 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 10:26:12,320 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:26:12,321 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:26:12,321 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:26:16,050 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:26:18,096 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD51DC3C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:20,141 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD53BB588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:22,185 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD53BB8D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:26,264 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD53BB748>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:26:28,307 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD53BBCF8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:26:30,362 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD53BBEB8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:26:32,794 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:26:34,845 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD541BA20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:36,894 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD541BB70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:38,923 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD541BE10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4/url
+2021-08-13 10:26:42,983 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD541B9B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:26:45,017 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD5460048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:26:47,069 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024DD5460208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/088410e9d865edb927096de289ed01f4
+2021-08-13 10:28:26,570 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:28:26,571 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:28:26,571 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:28:29,252 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:28:31,286 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44CA0358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:33,325 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44985748>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:35,375 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB454B70F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:39,468 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB454B7278>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:28:41,523 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB454B7518>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:28:43,575 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB454B76D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:28:45,984 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:28:48,035 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EA1A90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:50,081 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EA1C18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:52,133 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EA1E80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316/url
+2021-08-13 10:28:56,228 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EA1A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:28:58,279 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EE7198>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:29:00,325 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DB44EE7080>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/db5132fefad147876025c53b4a0cc316
+2021-08-13 10:31:40,029 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:31:40,030 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:31:40,031 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:31:42,676 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:31:44,731 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA36F2470>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:31:46,760 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA381C908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:31:48,812 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3F451D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:31:52,915 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3F45358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:31:54,965 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3F455F8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:31:57,007 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3F457B8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:31:59,414 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:32:01,464 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA39F1978>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:32:03,520 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA39F1AC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:32:05,578 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA39F1D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94/url
+2021-08-13 10:32:09,654 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA39F1908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:32:11,700 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3AD5160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:32:13,753 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAA3AD5438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1911aa2cf78a2cb0ef7419b79aacea94
+2021-08-13 10:33:28,522 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:33:28,522 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:33:28,522 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:33:31,122 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:33:33,139 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002391371E470>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:35,192 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239140E5048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:37,225 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239140E5208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:41,308 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239140E5390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:33:43,347 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239140E5630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:33:45,379 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239140E57F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:33:47,767 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:33:49,786 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239139619E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:51,841 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023913961B38>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:53,863 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023913961DD8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3/url
+2021-08-13 10:33:57,893 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023913961978>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:33:59,921 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239139A6AC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:34:01,941 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000239139A6240>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/beeed66e915c44ed5b75d0a30226ace3
+2021-08-13 10:42:54,808 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:42:54,808 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:42:54,808 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:42:57,436 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:42:59,469 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB0019F400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:01,487 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00081828>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:03,531 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00A26160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:07,611 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00A262E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:43:09,631 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00A26588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:43:11,653 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00A26748>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:43:14,074 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:43:16,118 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00441B70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:18,176 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00441CF8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:20,209 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00441F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347/url
+2021-08-13 10:43:24,289 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00441B00>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:43:26,313 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB004962B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:43:28,331 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB00496160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/0004e974ea37553a109adbc28043d347
+2021-08-13 10:48:31,582 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:48:40,323 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:48:45,413 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:50:00,314 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:50:00,314 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:50:00,315 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:50:02,970 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 10:50:05,020 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BA83E400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:07,073 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BA9E1898>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:09,107 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BB115128>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:13,208 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BB115358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:50:15,249 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BB1155C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:50:17,306 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BB115710>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:50:20,307 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 10:50:22,349 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAA31BE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:24,382 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAA31D68>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:26,411 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAA31F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee/url
+2021-08-13 10:50:30,447 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAB06C18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:50:32,459 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAB062E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:50:34,480 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212BAB06128>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/d306106794aa58908094fbdb1b3034ee
+2021-08-13 10:54:05,083 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:54:05,084 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:54:05,084 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:54:05,086 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 10:54:06,133 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 10:54:06,207 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 10:56:37,269 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:56:37,269 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 10:56:37,269 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:01:26,402 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:01:26,403 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:01:26,403 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:02:17,816 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:02:17,816 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:02:17,817 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:08:50,298 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:08:50,299 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:08:50,299 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:10:16,733 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:10:16,733 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:10:16,733 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:17:06,531 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:17:06,531 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:17:06,531 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:24:53,889 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:24:53,889 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:24:53,890 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:25:30,370 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:25:30,371 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:25:30,371 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:30:59,861 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:30:59,862 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:30:59,862 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:31:49,939 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:31:49,940 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:31:49,940 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:31:49,943 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:31:50,886 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:31:50,957 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:32:55,988 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:32:55,989 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:32:55,989 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:32:55,991 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:32:56,946 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:32:57,010 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:35:58,506 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:35:58,507 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:35:58,507 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:35:58,509 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:35:59,433 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:35:59,502 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:36:03,132 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:36:05,159 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4CC668>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565/url
+2021-08-13 11:36:07,193 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4EF128>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565/url
+2021-08-13 11:36:09,251 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4EF860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565/url
+2021-08-13 11:36:13,316 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4EF8D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565
+2021-08-13 11:36:15,362 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4EFAC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565
+2021-08-13 11:36:17,407 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B85A4EFC88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/355798429e231de2747f0342502ce565
+2021-08-13 11:40:21,382 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:21,383 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:21,383 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:21,385 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:40:22,437 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:40:22,505 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:40:26,310 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:40:28,352 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017758846780>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0/url
+2021-08-13 11:40:30,383 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001775886DA20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0/url
+2021-08-13 11:40:32,448 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001775886D358>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0/url
+2021-08-13 11:40:36,542 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001775886D588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0
+2021-08-13 11:40:38,572 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001775886DD30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0
+2021-08-13 11:40:40,613 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001775886DEF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/78b59942d1280193cbaeeae20b0071f0
+2021-08-13 11:40:58,016 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:58,016 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:58,016 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:40:58,018 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:40:58,920 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:40:58,984 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:41:02,956 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:41:04,977 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A30386D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57/url
+2021-08-13 11:41:07,023 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A2DDB2E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57/url
+2021-08-13 11:41:09,064 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A2DDB518>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57/url
+2021-08-13 11:41:13,152 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A2DDB0B8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57
+2021-08-13 11:41:15,196 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A2DDB828>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57
+2021-08-13 11:41:17,227 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A2DDBBA8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/1ee1d62bc51ee7a463840da1c5f8fa57
+2021-08-13 11:41:55,011 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:41:55,011 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:41:55,978 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:41:56,053 base.py INFO input_ 打开了('name', 'password')元素，输入000019字符
+2021-08-13 11:42:18,677 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:42:18,678 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:42:19,692 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:42:19,763 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 11:43:10,054 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 11:43:10,054 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 11:43:11,092 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 11:43:11,156 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 12:57:30,191 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 12:57:30,191 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 12:57:30,191 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 12:57:30,194 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 12:57:31,215 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 12:57:31,296 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 12:57:34,949 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 12:57:36,997 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32C8668>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7/url
+2021-08-13 12:57:39,025 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32E94E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7/url
+2021-08-13 12:57:41,058 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32E9240>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7/url
+2021-08-13 12:57:45,133 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32E9128>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7
+2021-08-13 12:57:47,193 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32E9C18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7
+2021-08-13 12:57:49,214 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000277F32E9DD8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/f912c1a5aec13c94dca4afe4e17a51f7
+2021-08-13 13:23:58,698 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:23:58,699 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:23:58,700 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:23:58,702 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:23:59,894 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:23:59,963 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:24:03,627 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:24:05,681 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE989438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967/url
+2021-08-13 13:24:07,708 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE9AB048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967/url
+2021-08-13 13:24:09,749 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE9AB4E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967/url
+2021-08-13 13:24:13,843 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE9AB940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967
+2021-08-13 13:24:15,899 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE9AB9B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967
+2021-08-13 13:24:17,917 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218AE9ABB70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/58caee6b67e5a935b196c832e360b967
+2021-08-13 13:24:46,897 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:24:46,898 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:24:46,899 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:24:46,902 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:24:47,842 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:24:47,904 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:26:11,709 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:26:11,710 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:26:11,710 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:26:11,712 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:26:12,650 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:26:12,717 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:29:03,328 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:29:03,329 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:29:03,329 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:29:03,331 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:29:04,282 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:29:04,348 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:30:14,989 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:30:14,989 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:30:14,990 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:30:14,992 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:30:15,929 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:30:15,995 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:31:20,278 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:31:20,279 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:31:20,279 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:31:20,285 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:31:21,324 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:31:21,387 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:32:13,482 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:32:13,483 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:32:13,483 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:32:13,485 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:32:14,400 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:32:14,466 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:40:03,178 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:40:03,178 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:40:03,178 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:40:03,179 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:40:04,697 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:40:04,752 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:51:05,093 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:51:05,094 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:51:05,094 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:51:05,094 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:51:06,083 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:51:06,156 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 13:53:46,583 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:53:46,584 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:53:46,584 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 13:53:46,584 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 13:53:47,501 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 13:53:47,567 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 15:45:37,913 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))': /session/8f514f77b5f35c5a0df933b320f26dae/element/2fccad3e-4d8f-47b8-a4bd-20a81ad69d38/css/body > div:nth-child(2) > div > div > ul > li.top_right3
+2021-08-13 15:45:37,915 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))': /session/8f514f77b5f35c5a0df933b320f26dae/element/2fccad3e-4d8f-47b8-a4bd-20a81ad69d38/css/body > div:nth-child(2) > div > div > ul > li.top_right3
+2021-08-13 15:45:37,916 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))': /session/8f514f77b5f35c5a0df933b320f26dae/element/2fccad3e-4d8f-47b8-a4bd-20a81ad69d38/css/body > div:nth-child(2) > div > div > ul > li.top_right3
+2021-08-13 16:08:13,773 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:08:13,774 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:08:13,774 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:08:13,774 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:08:15,225 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:08:15,323 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:08:19,066 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 16:08:21,109 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2D8F98>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:23,160 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2EE550>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:25,203 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2EE6D8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:29,280 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2EEF98>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:08:31,314 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E30E198>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:08:33,359 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E30E2B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:08:35,420 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 16:08:37,476 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E30E4E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:39,515 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E296390>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:41,563 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E30E1D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8/url
+2021-08-13 16:08:45,649 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E30EAC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:08:47,683 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2EED30>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:08:49,715 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002430E2EEE48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/04b89dd3f9d15aa62403479148a3bbb8
+2021-08-13 16:09:43,288 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:09:43,288 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:09:43,288 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:09:43,288 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:09:44,243 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:09:44,309 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:09:48,257 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 16:09:50,274 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79527EF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:09:52,294 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D795394A8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:09:54,346 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79539630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:09:58,449 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79539EF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:10:00,465 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D796620F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:10:02,492 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79662208>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:10:04,553 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 16:10:06,594 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79662438>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:10:08,628 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D790F62E8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:10:10,659 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79662128>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e/url
+2021-08-13 16:10:14,753 connectionpool.py WARNING urlopen Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79662A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:10:16,794 connectionpool.py WARNING urlopen Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79539E80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:10:18,845 connectionpool.py WARNING urlopen Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022D79539DA0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /session/01c0b80093b08984489f640e3e2d0e6e
+2021-08-13 16:11:49,239 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:11:49,239 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:11:49,239 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:11:49,240 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:11:50,188 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:11:50,251 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:16:32,427 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:16:32,427 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:16:32,427 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:16:32,428 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:16:33,443 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:16:33,528 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:29:44,646 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:29:44,647 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:29:44,647 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:29:44,647 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:29:45,584 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:29:45,651 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:32:38,555 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:32:38,556 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:32:39,487 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:32:39,551 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:33:51,440 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:33:51,441 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:33:51,441 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:33:51,441 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:33:52,509 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:33:52,591 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:34:45,720 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:34:45,720 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:34:45,721 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:34:45,721 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:34:46,728 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:34:46,794 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:36:10,158 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:36:10,159 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:36:10,159 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:36:10,160 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:36:11,251 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:36:11,336 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:36:12,534 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 16:36:13,846 base.py INFO input_ 打开了('id', 'itemname')元素，输入笔字符
+2021-08-13 16:36:17,930 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
+2021-08-13 16:36:19,314 base.py INFO input_ 打开了('name', 'mainreq/numbercount')元素，输入1字符
+2021-08-13 16:36:19,456 base.py INFO input_ 打开了('name', 'mainreq/reqfuture1')元素，输入出差报销差旅费用字符
+2021-08-13 16:37:48,325 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:37:48,325 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:37:48,325 base.py INFO __init__ 浏览器正常启动了
+2021-08-13 16:37:48,326 base.py INFO open 正常启动了https://oatest.guojingold.com/default/coframe/auth/login/loginFront.jsp
+2021-08-13 16:37:49,354 base.py INFO input_ 打开了('name', 'userId')元素，输入009410字符
+2021-08-13 16:37:49,437 base.py INFO input_ 打开了('name', 'password')元素，输入000000字符
+2021-08-13 16:37:54,869 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.officeSuppliesApl.Main.flow?_eosFlowAction=insert
+2021-08-13 16:37:55,026 base.py INFO open 正常启动了https://oatest.guojingold.com/default/com.guojingold.bpm.networkreimbursement.applyCost.MainDP.flow?_eosFlowAction=insert
